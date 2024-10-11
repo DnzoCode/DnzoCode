@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **I'm learning VUE, I've been focusing a lot on React and that's why I'm going to give this framework a try.**
 
-- 💬 Ask me about **React, Vue,Django**
+- 💬 Ask me about **React, Vue,Django and Clean Arquitecture :)**
 
 - 📫 How to reach me **dangelsfocus@gmail.com**
 
