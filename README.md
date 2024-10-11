@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Rodriguez</h1>
-<h3 align="center">I’m a Full-Stack Developer with 2 years of experience in building web applications. My focus is on creating efficient, scalable, and user-friendly solutions.</h3>
+<h3 align="center">I’m a Full-Stack Developer with 2 years of experience in building web applications or movil applications. My focus is on creating efficient, scalable, and user-friendly solutions.</h3>
 
 - 🌱 I’m currently learning **I'm learning VUE, I've been focusing a lot on React and that's why I'm going to give this framework a try.**
 
